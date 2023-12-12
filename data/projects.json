@@ -1,0 +1,64 @@
+[
+  
+  {
+    "name": "Facebook Clone ",
+    "desc": "Experience the essence of social networking with this Full-Stack Facebook clone.",
+    "image": "fb",
+    "category": "",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Instagram Clone",
+    "desc": "Experience the essence of social networking with this Full-Stack Instagram clone.",
+    "image": "insta",
+    "category": "",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Netflix Clone",
+    "desc": "Experience the essence of watching and chilling with this Full-Stack Netflix clone.",
+    "image": "netflix",
+    "category": "",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Youtube Clone",
+    "desc": "Experience the essence of watching and chilling with this Full-Stack Youtube clone.",
+    "image": "yt",
+    "category": "",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Experience the essence of weather and forecasting with this Full-Stack Weather App.",
+    "image": "weather",
+    "category": "",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Discord Clone",
+    "desc": "Experience the essence of social networking with this Full-Stack Discord clone. ",
+    "image": "discord",
+    "category": "",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  } 
+ 
+]
