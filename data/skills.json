@@ -53,4 +53,22 @@
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
     }
+    ,
+    {
+        "name": "Photoshop",
+        "icon": "https://img.icons8.com/?size=48&id=13677&format=png&color=000000"
+    }
+    ,
+    {
+        "name": "Illustrator",
+        "icon": "https://img.icons8.com/?size=48&id=13631&format=png&color=000000"
+    } ,
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/?size=48&id=lAWjO4LexGga&format=png&color=000000"
+    } ,
+    {
+        "name": "Microsoft Office",
+        "icon": "https://img.icons8.com/?size=48&id=6kZdxe7t8OL1&format=png&color=000000"
+    }
 ]

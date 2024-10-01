@@ -40,7 +40,7 @@ $(document).ready(function () {
 
     $("#contact-form").submit(function (event) {
         event.preventDefault();
-        alert('Message sent! ');
+        alert('The feature is currently not working. Please contact me through my email address or contact number.');
     });
 
 
