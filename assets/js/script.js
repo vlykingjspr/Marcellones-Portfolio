@@ -61,7 +61,7 @@ document.addEventListener('visibilitychange',
 
 
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "web designing", "web development","Graphic Design", "Social Media Management"],
+    strings: ["Technical Support", "Web Designing", "Web Development","Graphic Design"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
